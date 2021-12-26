@@ -7,4 +7,6 @@ printf("hello\n");
   printf("nothing");
   printf("wr r u\n");
   printf("Hello12345\n");
+  printf("wr r u\n");
+  printf("wt r u dng\n");
 }
